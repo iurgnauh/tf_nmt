@@ -1,0 +1,15 @@
+!model/convert_model_theano2tf.py
+.ssh_agent
+log/
+model/*
+data/diff.*
+data/sample.*
+nmt_model_average
+*.pyc
+config_*
+output/
+__pycache__/
+align_out.txt
+models/
+data/*
+vocab/

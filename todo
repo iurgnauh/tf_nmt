@@ -1,0 +1,7 @@
+1. attention update
+2. dropout update
+3. label smoothing
+4. moving averge fix bug
+5. beam search check
+6. refactor module
+7. model export
